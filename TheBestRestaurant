@@ -1,0 +1,14 @@
+The Best Restaurant available.
+
+
+With this project we intend to group sets of people based on the chosen restaurants, 
+notes given to the same and other informationpassed by users. For one city (city A)
+
+With the modeling of these groups we intend to verify which would be the nearest restaurants indicated
+for individuals from another city (city b), visiting city A.
+
+
+so we'll need to use:
+Clustering algorithms based on the users' information to determine which restaurant would be the indicated.
+And routing algorithms to choose from the closest restaurant.
+
